@@ -15,7 +15,7 @@ export default function ProfileInput() {
   }
 
   function onClick() {
-    navigate(`/users/${name}`);
+    navigate(`/github_profiles/users/${name}`);
   }
 
   return (
