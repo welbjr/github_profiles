@@ -11,7 +11,7 @@ export default function Navbar() {
       <AppBar position="static">
         <Toolbar>
           <IconButton
-            href="/"
+            href="/github_profiles"
             size="large"
             edge="start"
             color="inherit"
